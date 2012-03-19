@@ -1,0 +1,3 @@
+Database: kys_lisa
+user: kys_lisa
+password: angel
